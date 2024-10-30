@@ -34,19 +34,19 @@
     "id": 6,
     "name": "nebula gaming pc",
     "price": 19899,
-    "image": "images/nebula gaming pc desktop.jpg"
+    "image": "images/nebula%20gaming%20pc%20desktop.jpg"
   },
 
   {
     "id": 7,
     "name": "stgaubron gaming pc",
     "price": 18900,
-    "image": "images/stgaubron gaming pc.jpg"
+    "image": "images/stgaubron%20gaming%20pc.jpg"
   },
   {
     "id": 8,
     "name": "admi gaming pc",
     "price": 12000,
-    "image": "images/admi gaming pc.jpg"
+    "image": "images/admi%20gaming%20pc.jpg"
   }
 ]
