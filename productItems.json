@@ -3,32 +3,31 @@
     "id": 1,
     "name": "HP Laptop 15 15.6 FHD Intel",
     "price": 15300,
-    "image": "images/HP Laptop 15 15.6 FHD Intel.jpg"
+    "image": "images/HP%20Laptop%2015%2015.6%20FHD%20Intel.jpg"
   },
   {
     "id": 2,
     "name": "asus tuf gaming pc",
     "price": 16500,
-    "image": "images/asus tuf gaming a15.jpg"
+    "image": "images/asus%20tuf%20gaming%20a15.jpg"
   },
   {
     "id": 3,
     "name": "acer predator",
     "price": 29300,
-    "image": "images/acer predator.jpg"
+    "image": "images/acer%20predator.jpg"
   },
-
   {
     "id": 4,
     "name": "HP Laptop 15 15.6",
     "price": 15000,
-    "image": "images/HP Laptop 15 15.6.jpg"
+    "image": "images/HP%20Laptop%2015%2015.6.jpg"
   },
   {
     "id": 5,
     "name": "gaming pc, intel 12400f",
     "price": 13799,
-    "image": "images/gaming pc, intel 12400f.jpg"
+    "image": "images/gaming%20pc,%20intel%2012400f.jpg"
   },
   {
     "id": 6,
@@ -36,7 +35,6 @@
     "price": 19899,
     "image": "images/nebula%20gaming%20pc%20desktop.jpg"
   },
-
   {
     "id": 7,
     "name": "stgaubron gaming pc",
